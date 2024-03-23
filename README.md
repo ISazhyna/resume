@@ -1,0 +1,10 @@
+Highly-skilled professional with a proven track record of designing and implementing robust and scalable data solutions backed by 5+ years of IT experience. Strong programming and scripting abilities and proficiency in SQL and data querying. Implemented strategic enhancements to key elements of e-commerce websites, such as call-to-action buttons, shopping cart functionality, quick view options, and checkout pages. These optimizations resulted in a significant increase in the conversion rate, with a 20% rise in the number of completed orders.
+CORE COMPETENCIES 
+Python | Data Analytics | dbt | Airflow | Terraform | SQL |Excel | Google Analytics |JavaScript | JQuery  |  JSON | HTML | CSS | PHP | OOP |Bootstrap4 | MySQL | jQuery | e-Commerce | Google Analytics | Google Adwords | slack | Jira | git | APIs | Agile  | Kanban  | Joomla CMS | SMM | SERM | WordPress CMS
+PROFESSIONAL EXPERIENCE 
+QA Engineer - Part Time| Utest                                                                                                                            Austin, TX Jan 2023 - May 2023
+ Engaged as a remote tester for uTest, an online testing platform, to participate in the testing of Google Bard. Successfully executed testing for Bard, focusing on Functional, Performance, Crash, and Visual errors, identifying and reporting two unique bugs. Maintained a strong commitment to quality and professionalism, upholding uTest's standards and ensuring the integrity of the testing process.
+Collaborated with a global community of testers to execute various testing activities, including functional, performance, and usability testing of Google Bard.
+Followed test plans and executed test cases to ensure the accuracy and effectiveness of Google Bard's natural language processing capabilities. 
+Documented clear and concise bug reports with detailed steps to reproduce issues, including screenshots and supporting information, using uTest's reporting tools.
+Actively participated in discussions and provided feedback on the uTest platform, sharing insights and suggestions to improve the testing process and overall user experience.
